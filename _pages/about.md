@@ -52,7 +52,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
   <li id="CP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections</span> <br>
     <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <br> 
-    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span> , Hong Chen* <br>
+    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Hong Chen* <br>
     <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023. (Oral Paper Presentation)
   </li>
 
@@ -60,7 +60,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
   <li id="CP-Pub1"> 
     <span style="color:#000000; font-weight:bold;">Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data</span> <br>
     <a href="https://ieeexplore.ieee.org/document/9948645">[Paper]</a> <br> 
-    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>,  Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
+    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
     <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022. (Oral Paper Presentation)
   </li>
 </ol>
