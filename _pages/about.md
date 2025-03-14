@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Master student from School of integrated circuits, Tsinghua University. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
 
-I'm very fortunate to be supervised by Prof. Jianshi Tang and LEMON Lab since May 2023. Before that I had been supervised by Prof. Hong Chen for 1 year.
+I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang </a> and <a href='http://stor.ime.tsinghua.edu.cn/'> LEMON Lab </a> since May 2023. Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.cn/'> Prof. Hong Chen </a> for 1 year.
 
 Hobbies: magic tower, cricket, DotA2
 
