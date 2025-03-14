@@ -61,8 +61,13 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2007.09 - 2013.06*, Elementary school student, Qinyang Yongwei School, China.
 
 # 💬 Invited Talks
-# - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 # - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🎓 Academic Service
+- *2024.03 - present*, Assist in guiding undergraduate research (SRT and TIC).
+
+# 🎣 Activities
 
 # 💻 Internships
 # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
