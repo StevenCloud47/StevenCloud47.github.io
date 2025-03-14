@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of integrated circuits</a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University</a>. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
+I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of Integrated Circuits</a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University</a>. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
 
 I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang</a> and <a href='http://stor.ime.tsinghua.edu.cn/'> LEMON Lab</a> since May 2023. 
 
@@ -52,12 +52,17 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - present*, Master student, School of Integrated Circuits, Tsinghua University, China. 
+- *2021.07 - 2024.06*, Undergraduate student, School of Integrated Circuits, Tsinghua University, China. 
+- *2020.07 - 2021.06*, Undergraduate student, Department of Physics, Tsinghua University, China. 
+- *2019.08 - 2020.06*, Undergraduate student, Department of Engineering Physics, Tsinghua University, China.
+- *2016.08 - 2019.06*, Senior high school student, Zhengzhou Foreign Lauguage School-New Fengyang Campus, China.
+- *2013.09 - 2016.06*, Junior high school student, Qinyang Yongwei School, China.
+- *2007.09 - 2013.06*, Elementary school student, Qinyang Yongwei School, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
