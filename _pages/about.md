@@ -75,13 +75,13 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.08 - present*, Master student, **School of Integrated Circuits**, Tsinghua University**, China. 
-- *2021.07 - 2024.06*, Undergraduate student, **School of Integrated Circuits, Tsinghua University**, China. 
-- *2020.07 - 2021.06*, Undergraduate student, **Department of Physics, Tsinghua University**, China. 
-- *2019.08 - 2020.06*, Undergraduate student, **Department of Engineering Physics, Tsinghua University**, China.
-- *2016.08 - 2019.06*, Senior high school student, **Zhengzhou Foreign Lauguage School-New Fengyang Campus**, China.
-- *2013.09 - 2016.06*, Junior high school student, **Qinyang Yongwei School**, China.
-- *2007.09 - 2013.06*, Elementary school student, **Qinyang Yongwei School**, China.
+- *2024.08 - present*, Master student, **School of Integrated Circuits**, <span style="color:#b02418; font-weight:bold;">Tsinghua University</span>, China. 
+- *2021.07 - 2024.06*, Undergraduate student, **School of Integrated Circuits**, Tsinghua University, China. 
+- *2020.07 - 2021.06*, Undergraduate student, **Department of Physics**, Tsinghua University, China. 
+- *2019.08 - 2020.06*, Undergraduate student, **Department of Engineering Physics**, Tsinghua University, China.
+- *2016.08 - 2019.06*, Senior high school student, Zhengzhou Foreign Lauguage School-New Fengyang Campus, China.
+- *2013.09 - 2016.06*, Junior high school student, Qinyang Yongwei School, China.
+- *2007.09 - 2013.06*, Elementary school student, Qinyang Yongwei School, China.
 
 # 💬 Invited Talks
 
