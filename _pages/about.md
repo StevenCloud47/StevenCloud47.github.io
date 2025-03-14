@@ -89,7 +89,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2024.03 - present*, Assist in guiding undergraduate research (SRT and TIC).
 
 # 💻 Internships
-# - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+ - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🎣 Social Work
 
