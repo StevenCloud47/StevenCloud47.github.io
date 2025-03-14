@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of integrated circuits </a>, <a href='https://www.tsinghua.edu.cn/'> School of integrated circuits </a>. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
+I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of integrated circuits </a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University </a>. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
 
 I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang </a> and <a href='http://stor.ime.tsinghua.edu.cn/'> LEMON Lab </a> since May 2023. 
 
