@@ -27,7 +27,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔥 News
+# 🔥 News (To be edited)
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -70,7 +70,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
   
 </ol>
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards (To be edited)
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -88,8 +88,8 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 # 🎓 Academic Service
 - *2024.03 - present*, Assist in guiding undergraduate research (SRT and TIC).
 
-# 💻 Internships
+# 💻 Internships (To be edited)
  - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 🎣 Social Work
+# 🎣 Social Work (To be edited)
 
