@@ -32,20 +32,43 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+<span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+#### JOURNAL PAPERS
+<ol reversed>
+  
+  <li id="JP-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">Anomaly Detection for Medical Images Using Teacher-Student Model with Skip Connections and Multi-scale Anomaly Consistency</span> <br>
+    <a href="https://doi.org/10.1109/TIM.2024.3406792">[Paper]</a> <a href="https://github.com/Arktis2022/Skip-TS">[Code]</a> <br> 
+    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Jingqiao Lu, Hong Chen* <br>
+    <i>IEEE Transactions on Instrumentation and Measurement <strong>(IEEE TIM). </strong></i> 2024.
+  </li>
+</ol>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+#### CONFERENCE PAPERS
+<ol reversed>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  <li id="CP-Pub2"> 
+    <span style="color:#000000; font-weight:bold;">Skip-ST: Anomaly Detection for Medical Images Using Student-Teacher Network with Skip Connections</span> <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10181639">[Paper]</a> <br> 
+    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span> , Hong Chen* <br>
+    <i>IEEE International Symposium on Circuits and Systems <strong>(ISCAS). </strong></i> 2023. (Oral Paper Presentation)
+  </li>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+  <li id="CP-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">Data Augmentation Using Image-to-image Translation for Tongue Coating Thickness Classification with Imbalanced Data</span> <br>
+    <a href="https://ieeexplore.ieee.org/document/9948645">[Paper]</a> <br> 
+    Mingxuan Liu, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>,  Hongyu Gu, Jingqiao Lu, Hong Chen* <br>
+    <i>IEEE Biomedical Circuits and Systems Conference <strong>(BioCAS). </strong></i> 2022. (Oral Paper Presentation)
+  </li>
+</ol>
+ 
+#### CONFERENCE ABSTRACTS
+<ol reversed>
+  
+</ol>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -61,13 +84,12 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 - *2007.09 - 2013.06*, Elementary school student, Qinyang Yongwei School, China.
 
 # 💬 Invited Talks
- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-# - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎓 Academic Service
 - *2024.03 - present*, Assist in guiding undergraduate research (SRT and TIC).
 
-# 🎣 Activities
-
 # 💻 Internships
 # - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🎣 Social Work
+
