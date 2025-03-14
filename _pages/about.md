@@ -23,8 +23,6 @@ I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/
 
 Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower </a>, cricket, DotA2
 
-<a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
