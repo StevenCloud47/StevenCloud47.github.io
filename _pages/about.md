@@ -84,12 +84,12 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 
 - **2024.06** <span style="color:#ccab00; font-weight:bold;">Excellent Graduate (优良毕业生)</span> for School of Integrated Circuits, Tsinghua University
 - **2024.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 17th Capital University Cricket League
-- **2023.12** <span style="color:#27a4a4; font-weight:bold;">Science and Technology Excellence</span>
+- **2023.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence</span>
 - **2023.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academical Excellence</span>
 - **2023.08** <span style="color:#27a4a4; font-weight:bold;">Outstanding intern</span> in summer practice
 - **2023.05** <span style="color:#27a4a4; font-weight:bold;">5th-8th place</span> in the men's group of the 16th Capital University Cricket League
 - **2023.01** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> in the 14th National College Student Mathematics Competition (Non-Mathematics Group)
-- **2023.01** <span style="color:#27a4a4; font-weight:bold;">Science and Technology Excellence</span>
+- **2023.01** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence</span>
 - **2023.01** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academical Excellence</span>
 - **2022.12** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> for Outstanding Projects of the Students Research Training (SRT) Program
 - **2021.12** <span style="color:#dc143c; font-weight:bold;">First Prize</span> in the 13th National College Student Mathematics Competition (Non-Mathematics Group)
