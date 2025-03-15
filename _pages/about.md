@@ -116,5 +116,10 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 # 💻 Internships
  - **2023.07 - 2023.08**, [Integrated Circuits Platform, International Innovation center of Tsinghua University, Shanghai](http://www.tsinghua-sh.cn/Content/2087830.html), China.
 
-# 🎣 Social Work (To be edited)
+# ⚒️ Social Works and Events
+- **2022.09 - present**, Responsible for the Student Cricket Association, Tsinghua University.
+- **2021.10 - 2024.03**, Assistant in the Writing & Communication course, Writing Center, Tsinghua University.
+- **2021.03 - 2024.06**, Member of the Humanities and Social Sciences Library Branch of the Work-Study Brigade (勤工助学大队文图分队), Tsinghua University.
+- **2020.11 - present**, Member of the Cricket Team, Tsinghua University.
+- **2020.03 - 2020.10**, Officer in the Office of the Youth League Committee, Department of Engineering Physics, Tsinghua University.
 
