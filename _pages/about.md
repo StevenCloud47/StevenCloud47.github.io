@@ -83,11 +83,11 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 #### Undergraduate
 
 - **2024.06** Excellent Graduate (优良毕业生) for School of Integrated Circuits, Tsinghua University
-- **2024.05** 3rd-4th place in the men's group of the 17th Capital University Cricket League
+- **2024.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 17th Capital University Cricket League
 - **2023.12** Scholarship for Science and Technology Innovation Excellence
 - **2023.12** Scholarship for Acdemical Excellence
 - **2023.08** Outstanding intern in summer practice
-- **2023.05** 5th-8th place in the men's group of the 16th Capital University Cricket League
+- **2023.05** <span style="color:#27a4a4; font-weight:bold;">5th-8th place</span> in the men's group of the 16th Capital University Cricket League
 - **2023.01** Second Prize in the 14th National College Student Mathematics Competition (Non-Mathematics Group)
 - **2023.01** Scholarship for Science and Technology Innovation Excellence
 - **2023.01** Scholarship for Acdemical Excellence
@@ -95,9 +95,9 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 - **2021.12** First Prize in the 13th National College Student Mathematics Competition (Non-Mathematics Group)
 - **2021.12** Scholarship for Acdemical Excellence
 - **2021.12** Scholarship for Athletic Excellence
-- **2021.06** 3rd-4th place in the men's group of the 14th Capital University Cricket League
-- **2020.11** 5th-8th place in the men's group of the 13th Capital University Cricket League
-- **2020.10** Brownze Award for summer social practice (As a member of Team "Win at the tipping point")
+- **2021.06** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 14th Capital University Cricket League
+- **2020.11** <span style="color:#27a4a4; font-weight:bold;">5th-8th place</span> in the men's group of the 13th Capital University Cricket League
+- **2020.10** <span style="color:#80704c; font-weight:bold;">Bronze Award</span> for summer social practice (As a member of Team "Win at the tipping point")
 
 # 📖 Educations
 - **2024.08 - present**, Master student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
