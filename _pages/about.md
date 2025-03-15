@@ -77,7 +77,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
   
 </ol>
 
-# 🎖 Honors and Awards (To be edited)
+# 🎖 Honors and Awards
 #### Master
 
 #### Undergraduate
