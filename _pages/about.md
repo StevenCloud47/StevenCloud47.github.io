@@ -27,9 +27,11 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔥 News (To be edited)
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News
+- **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/document/10540605) has been accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
+- **2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
+- **2022.08.14:** 🎉🎉 Our paper proposed [A GAN-based data imbalance solution](https://ieeexplore.ieee.org/document/9948645) has been accepted by [IEEE BioCAS 2022](https://2022.ieee-biocas.org/site/page.aspx?pid=901&sid=1419&lang=en).
+
 
 # 📝 Publications 
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
@@ -70,26 +72,31 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cr
   
 </ol>
 
+#### PATENTS
+<ol reversed>
+  
+</ol>
+
 # 🎖 Honors and Awards (To be edited)
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2021.10** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2021.09** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.08 - present*, Master student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
-- *2021.07 - 2024.06*, Undergraduate student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
-- *2020.07 - 2021.06*, Undergraduate student, **Department of Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
-- *2019.08 - 2020.06*, Undergraduate student, **Department of Engineering Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
-- *2016.08 - 2019.06*, Senior high school student, <span style="color:#891b10; font-weight:bold;">Zhengzhou Foreign Lauguage School New Fengyang Campus</span>, China.
-- *2013.09 - 2016.06*, Junior high school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
-- *2007.09 - 2013.06*, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
+- **2024.08 - present**, Master student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
+- **2021.07 - 2024.06**, Undergraduate student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
+- **2020.07 - 2021.06**, Undergraduate student, **Department of Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
+- **2019.08 - 2020.06**, Undergraduate student, **Department of Engineering Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
+- **2016.08 - 2019.06**, Senior high school student, <span style="color:#891b10; font-weight:bold;">Zhengzhou Foreign Lauguage School New Fengyang Campus</span>, China.
+- **2013.09 - 2016.06**, Junior high school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
+- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
 
 # 💬 Invited Talks
 
 # 🎓 Academic Service
-- *2024.03 - present*, Assist in guiding undergraduate research (SRT and TIC).
+- **2024.03 - present**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
 
-# 💻 Internships (To be edited)
- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships
+ - **2023.07 - 2023.08**, [Integrated Circuits Platform, International Innovation center of Tsinghua University, Shanghai](http://www.tsinghua-sh.cn/Content/2087830.html), China.
 
 # 🎣 Social Work (To be edited)
 
