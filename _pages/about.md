@@ -23,7 +23,7 @@ I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/
 
 Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.cn/'> Prof. Hong Chen</a> for 1 year.
 
-Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'> magic tower</a>, cricket, DotA2
+Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cricket, <a href='https://www.dota2.com/home'>Defense of the Ancients 2</a>
 
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
