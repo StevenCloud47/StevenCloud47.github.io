@@ -78,8 +78,26 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 </ol>
 
 # 🎖 Honors and Awards (To be edited)
-- **2021.10** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- **2021.09** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#### Master
+
+#### Undergraduate
+
+- **2024.06** Excellent Graduate (优良毕业生) for School of Integrated Circuits, Tsinghua University
+- **2024.05** 3rd-4th place in the men's group of the 17th Capital University Cricket League
+- **2023.12** Scholarship for Science and Technology Innovation Excellence
+- **2023.12** Scholarship for Acdemical Excellence
+- **2023.08** Outstanding intern in summer practice
+- **2023.05** 5th-8th place in the men's group of the 16th Capital University Cricket League
+- **2023.01** Second Prize in the 14th National College Student Mathematics Competition (Non-Mathematics Group)
+- **2023.01** Scholarship for Science and Technology Innovation Excellence
+- **2023.01** Scholarship for Acdemical Excellence
+- **2022.12** Second Prize for Outstanding Projects of the Students Research Training (SRT) Program
+- **2021.12** First Prize in the 13th National College Student Mathematics Competition (Non-Mathematics Group)
+- **2021.12** Scholarship for Acdemical Excellence
+- **2021.12** Scholarship for Athletic Excellence
+- **2021.06** 3rd-4th place in the men's group of the 14th Capital University Cricket League
+- **2020.11** 5th-8th place in the men's group of the 13th Capital University Cricket League
+- **2020.10** Brownze Award for summer social practice (As a member of Team "Win at the tipping point")
 
 # 📖 Educations
 - **2024.08 - present**, Master student, **School of Integrated Circuits**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
