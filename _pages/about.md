@@ -25,7 +25,9 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 <!-- Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cricket, <a href='https://www.dota2.com/home'>Defense of the Ancients 2</a> -->
 
-<a href='https://scholar.google.com/citations?user=Gb46V9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
+<!-- <a href='https://scholar.google.com/citations?user=Gb46V9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a> -->
+
+<a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
 
 # 🔥 News
 - **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
@@ -118,7 +120,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 # 💬 Invited Talks
 
 # 🎓 Academic Service
-- **2024.03 - present**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
+- **2024.03 - 2025.06**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
 
 # 💻 Internships
  - **2023.07 - 2023.08**, [Integrated Circuits Platform, International Innovation center of Tsinghua University, Shanghai](http://www.tsinghua-sh.cn/Content/2087830.html), China.
