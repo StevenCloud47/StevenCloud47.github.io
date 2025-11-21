@@ -28,6 +28,7 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
+- **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
 - **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/document/10540605) has been accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
 - **2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
 - **2022.08.14:** 🎉🎉 Our paper proposed [A GAN-based data imbalance solution](https://ieeexplore.ieee.org/document/9948645) has been accepted by [IEEE BioCAS 2022](https://2022.ieee-biocas.org/site/page.aspx?pid=901&sid=1419&lang=en).
@@ -37,6 +38,16 @@ Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cri
 <span style="color:#b02418; font-weight:bold;">#</span> co-first author | <span style="color:#b02418; font-weight:bold;">*</span> corresponding author <br> 
 
 #### JOURNAL PAPERS
+<ol reversed>
+  
+  <li id="JP-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">A memristor-based energy-efficient compressed sensing accelerator with hardware-software co-optimization for edge computing</span> <br>
+    <a href="https://doi.org/10.1093/nsr/nwaf499">[Paper]</a> <a href="https://github.com/StevenCloud47/memCS">[Code]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Yunrui Jiao#</span>, Han Zhao#, Jianshi Tang*, Yanze Zhou, Ruofei Hu, Haochen Jiang, Xingchu Li, Jingyuan Huang, Biao Sun, Wen Sun, Bin Gao, He Qian and Huaqiang Wu*  <br>
+    <i>National Science Review <strong>(NSR). </strong></i> 2025.
+  </li>
+</ol>
+
 <ol reversed>
   
   <li id="JP-Pub1"> 
