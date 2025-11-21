@@ -25,7 +25,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 <!-- Hobbies: <a href='https://h5mota.com/user/?id=34795#/score'>magic tower</a>, cricket, <a href='https://www.dota2.com/home'>Defense of the Ancients 2</a> -->
 
-<a href='https://scholar.google.com/citations?user=Gb46V9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=a9f144&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=Gb46V9YAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
 
 # 🔥 News
 - **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
