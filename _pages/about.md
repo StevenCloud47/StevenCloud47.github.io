@@ -120,6 +120,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 # 💬 Invited Talks
 
 # 🎓 Academic Service
+- **2025.11 - 2025.12**, Participated in the LEMON Lab's C111 chip design project, responsible for pre-layout and post-layout simulation of the analog front-end section AFE_2MODE_MICS_CS (with Han Zhao).
 - **2024.03 - 2025.06**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
 
 # 💻 Internships
