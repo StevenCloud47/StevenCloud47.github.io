@@ -114,10 +114,13 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 - **2020.07 - 2021.06**, Undergraduate student, **Department of Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
 - **2019.08 - 2020.06**, Undergraduate student, **Department of Engineering Physics**, <span style="color:#660874; font-weight:bold;">Tsinghua University</span>, China. 
 - **2016.08 - 2019.06**, Senior high school student, <span style="color:#891b10; font-weight:bold;">Zhengzhou Foreign Lauguage School New Fengyang Campus</span>, China.
-- **2013.09 - 2016.06**, Junior high school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
-- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China.
+<!--- **2013.09 - 2016.06**, Junior high school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China. -->
+<!--- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China. -->
 
-# 💬 Invited Talks
+# 💬 Activities
+<!-- - **2025.12.20**, Attended the 4th HiPi Chiplet Forum, held in Beijing. -->
+- **2025.08.21**, Attended AI for Science Hackathon (Beijing Station), held in Beijing.
+- **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
 
 # 🎓 Academic Service
 - **2025.11 - 2025.12**, Participated in the LEMON Lab's C111 chip design project, responsible for pre-layout and post-layout simulation of the analog front-end section AFE_2MODE_MICS_CS (with Han Zhao).
@@ -126,7 +129,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 # 💻 Internships
  - **2023.07 - 2023.08**, [Integrated Circuits Platform, International Innovation center of Tsinghua University, Shanghai](http://www.tsinghua-sh.cn/Content/2087830.html), China.
 
-# ⚒️ Social Works and Events
+# ⚒️ Social Works
 - **2022.09 - present**, Responsible for the Student Cricket Association, Tsinghua University.
 - **2021.10 - 2024.03**, Assistant in the Writing & Communication course, Writing Center, Tsinghua University.
 - **2021.03 - 2024.06**, Member of the Humanities and Social Sciences Library Branch of the Work-Study Brigade (勤工助学大队文图分队), Tsinghua University.
