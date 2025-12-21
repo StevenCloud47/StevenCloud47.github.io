@@ -118,7 +118,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <!--- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China. -->
 
 # 💬 Activities
-<!-- - **2025.12.20**, Attended the 4th HiPi Chiplet Forum, held in Beijing. -->
+- **2025.12.20**, Attended the 4th HiPi Chiplet Forum, held in Beijing.
 - **2025.08.21**, Attended AI for Science Hackathon (Beijing Station), held in Beijing.
 - **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
 
