@@ -83,7 +83,10 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 #### PATENTS
 <ol reversed>
-  
+  <li id="P-Pub1"> 
+    <span style="color:#000000; font-weight:bold;">一种基于存内计算的低比特压缩感知鲁棒性优化及校验方法</span> <br>
+    <span style="color:#b02418; font-weight:bold;">Jianshi Tang</span>, Yunrui Jiao, Han Zhao, et al. <br> 2025.
+  </li>
 </ol>
 
 # 🎖 Honors and Awards
@@ -118,6 +121,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <!--- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China. -->
 
 # 💬 Activities
+- **2026.01.16**, Attend the Annual Meeting of Tsinghua University Micro-Nano Fabrication Center (Poster presentation)
 - **2025.12.20**, Attended the 4th HiPi Chiplet Forum, held in Beijing.
 - **2025.08.21**, Attended AI for Science Hackathon (Beijing Station), held in Beijing.
 - **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
