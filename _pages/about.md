@@ -84,7 +84,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 #### PATENTS
 <ol reversed>
   <li id="P-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">一种基于存内计算的低比特压缩感知鲁棒性优化及校验方法</span> <span style="color:#b02418; font-weight:bold;">Jianshi Tang</span>, Yunrui Jiao, Han Zhao, et al. 2025.
+    <span style="color:#000000; font-weight:bold;">一种基于存内计算的低比特压缩感知鲁棒性优化及校验方法</span>, <span style="color:#b02418; font-weight:bold;">Jianshi Tang</span>, Yunrui Jiao, Han Zhao, et al. 2025.
   </li>
 </ol>
 
