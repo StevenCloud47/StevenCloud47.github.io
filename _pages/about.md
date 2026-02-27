@@ -41,7 +41,15 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 #### JOURNAL PAPERS
 <ol reversed>
-    <li id="JP-Pub2"> 
+   <li id="JP-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">Memristor-based Energy-Efficient Signal Processing: Recent Progress and Technology Trend (Under Review) </span> <br> 
+    <!--  <a href="https://doi.org/10.1093/nsr/nwaf499">[Paper]</a> <a href="https://github.com/StevenCloud47/memCS">[Code]</a> <br> -->
+    Jingyuan Huang#, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao#</span>, Han Zhao, Xingchu Li, Bin Gao, He Qian, Jianshi Tang* and Huaqiang Wu <br>
+    <i>Journal of Semiconductors <strong>(JoS). </strong></i> 2026.
+   </li>
+
+
+   <li id="JP-Pub2"> 
     <span style="color:#000000; font-weight:bold;">A memristor-based energy-efficient compressed sensing accelerator with hardware-software co-optimization for edge computing</span> <br>
     <a href="https://doi.org/10.1093/nsr/nwaf499">[Paper]</a> <a href="https://github.com/StevenCloud47/memCS">[Code]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Yunrui Jiao#</span>, Han Zhao#, Jianshi Tang*, Yanze Zhou, Ruofei Hu, Haochen Jiang, Xingchu Li, Jingyuan Huang, Biao Sun, Wen Sun, Bin Gao, He Qian and Huaqiang Wu*  <br>
