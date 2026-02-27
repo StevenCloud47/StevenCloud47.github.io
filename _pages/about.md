@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of Integrated Circuits</a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University</a>. My research interest includes memristor-based in-memory computing, brain-computer interface, and compressed sensing.
 
-I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang</a> and <a href='http://stor.ime.tsinghua.edu.cn/'> LEMON Lab</a> since May 2023. 
+I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang</a> and <a href='http://stor.ime.tsinghua.edu.cn/'> Lab of Emerging MemOry and Novel computing (LEMON) </a> since May 2023. 
 
 Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.cn/'> Prof. Hong Chen</a> for 1 year.
 
@@ -92,12 +92,14 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 #### PATENTS
 <ol reversed>
   <li id="P-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">一种基于存内计算的低比特压缩感知鲁棒性优化及校验方法</span>, Jianshi Tang, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Han Zhao, et al. 2025.
+    <span style="color:#000000; font-weight:bold;">忆阻器测量矩阵确定方法、装置、设备、存储介质及产品</span>, Jianshi Tang, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Han Zhao, et al. 2026.2.
   </li>
 </ol>
 
 # 🎖 Honors and Awards
 #### Master
+- **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Outstanding Individual </span> in LEMON
+- **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Attendance </span> in LEMON
 
 #### Undergraduate
 
