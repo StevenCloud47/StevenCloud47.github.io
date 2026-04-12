@@ -30,6 +30,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
 
 # 🔥 News
+- **2026.03.23:** 🎉🎉 Our paper reported [In-situ computational spectrometer implemented on a fully integrated 576-Kb memristor chip](https://www.nature.com/articles/s41928-026-01571-x) has been published on [Nature Electronics](https://www.nature.com/natelectron/).
 - **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
 - **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/document/10540605) has been accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
 - **2023.05.21:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10181639) has been accepted by [IEEE ISCAS 2023](https://2023.ieee-iscas.org/).
@@ -136,6 +137,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 - **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
 
 # 🎓 Academic Service
+- **2026.03 - Now**, Assist in guiding undergraduate research (SRT project).
 - **2025.11 - 2025.12**, Participated in the LEMON Lab's C111 chip design project, responsible for pre-layout and post-layout simulation of the analog front-end section AFE_2MODE_MICS_CS (with Han Zhao).
 - **2024.03 - 2025.06**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
 
@@ -143,7 +145,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
  - **2023.07 - 2023.08**, [Integrated Circuits Platform, International Innovation center of Tsinghua University, Shanghai](http://www.tsinghua-sh.cn/Content/2087830.html), China.
 
 # ⚒️ Social Works
-- **2022.09 - present**, Responsible for the Student Cricket Association, Tsinghua University.
+- **2022.09 - 2026.09**, Responsible for the Student Cricket Association, Tsinghua University.
 - **2021.10 - 2024.03**, Assistant in the Writing & Communication course, Writing Center, Tsinghua University.
 - **2021.03 - 2024.06**, Member of the Humanities and Social Sciences Library Branch of the Work-Study Brigade (勤工助学大队文图分队), Tsinghua University.
 - **2020.11 - present**, Member of the Cricket Team, Tsinghua University.
