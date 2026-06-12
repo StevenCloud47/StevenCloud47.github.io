@@ -100,7 +100,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 # 🎖 Honors and Awards
 #### Master
-- **2026.06** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> in the "Healthy Mind, Future Forward" Running Activity and <span style="color:#27a4a4; font-weight:bold;">Team Award</span>, School of Integrated Circuits
+- **2026.06** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> and <span style="color:#27a4a4; font-weight:bold;">Team Award</span> in the "Healthy Mind, Future Forward" Running Activity, School of Integrated Circuits
 - **2026.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 19th Capital University Cricket League
 - **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Outstanding Individual </span> in LEMON
 - **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Attendance </span> in LEMON
