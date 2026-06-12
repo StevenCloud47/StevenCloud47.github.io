@@ -30,6 +30,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
 
 # 🔥 News
+- **2026.06.12:** Local update workflow test. This temporary line will be reverted after verifying GitHub Pages deployment.
 - **2026.03.23:** 🎉🎉 Our paper reported [In-situ computational spectrometer implemented on a fully integrated 576-Kb memristor chip](https://www.nature.com/articles/s41928-026-01571-x) has been published on [Nature Electronics](https://www.nature.com/natelectron/).
 - **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
 - **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/document/10540605) has been accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
