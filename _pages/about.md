@@ -30,6 +30,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <a href='https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Gb46V9YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=83d0e9&style=flat&label=citations"></a>
 
 # 🔥 News
+- **2026.05.17:** 🎉🎉 Our research highlights introducing [Memristor-based Energy-Efficient Signal Processing](https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020062) has been accepted by [Journal of Semiconductors](https://www.jos.ac.cn/).
 - **2026.03.23:** 🎉🎉 Our paper reported [In-situ computational spectrometer implemented on a fully integrated 576-Kb memristor chip](https://www.nature.com/articles/s41928-026-01571-x) has been published on [Nature Electronics](https://www.nature.com/natelectron/).
 - **2025.11.13:** 🎉🎉 Our paper proposed [Hardware-software co-optimization for memristor-based compressed sensing](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf499) has been accepted by [National Science Review](https://www.sciengine.com/NSR/home).
 - **2024.04.18:** 🎉🎉 Our paper addressed [Unsupervised Medical Image Anomaly Detection](https://ieeexplore.ieee.org/document/10540605) has been accepted by [IEEE TIM](https://ieee-ims.org/publication/ieee-tim).
@@ -43,8 +44,8 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 #### JOURNAL PAPERS
 <ol reversed>
    <li id="JP-Pub3"> 
-    <span style="color:#000000; font-weight:bold;">Memristor-based Energy-Efficient Signal Processing: Recent Progress and Technology Trend (Under Review) </span> <br> 
-    <!--  <a href="https://doi.org/10.1093/nsr/nwaf499">[Paper]</a> <a href="https://github.com/StevenCloud47/memCS">[Code]</a> <br> -->
+    <span style="color:#000000; font-weight:bold;">Memristor-based Energy-Efficient Signal Processing: Recent Progress and Technology Trend</span> <br> 
+    <a href="https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020062">[Paper]</a> <br>
     Jingyuan Huang#, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao#</span>, Han Zhao, Xingchu Li, Bin Gao, He Qian, Jianshi Tang* and Huaqiang Wu <br>
     <i>Journal of Semiconductors <strong>(JoS). </strong></i> 2026.
    </li>
@@ -99,6 +100,8 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 # 🎖 Honors and Awards
 #### Master
+- **2026.06** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> in the "Healthy Mind, Future Forward" Running Activity and <span style="color:#27a4a4; font-weight:bold;">Team Award</span>, School of Integrated Circuits
+- **2026.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 19th Capital University Cricket League
 - **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Outstanding Individual </span> in LEMON
 - **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Attendance </span> in LEMON
 
