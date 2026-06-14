@@ -43,12 +43,20 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 #### JOURNAL PAPERS
 <ol reversed>
-   <li id="JP-Pub3"> 
+   <li id="JP-Pub4"> 
     <span style="color:#000000; font-weight:bold;">Memristor-based Energy-Efficient Signal Processing: Recent Progress and Technology Trend</span> <br> 
     <a href="https://www.jos.ac.cn/en/article/doi/10.1088/1674-4926/26020062">[Paper]</a> <br>
     Jingyuan Huang#, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao#</span>, Han Zhao, Xingchu Li, Bin Gao, He Qian, Jianshi Tang* and Huaqiang Wu <br>
     <i>Journal of Semiconductors <strong>(JoS). </strong></i> 2026.
    </li>
+
+
+   <li id="JP-Pub3"> 
+    <span style="color:#000000; font-weight:bold;">In situ spectral reconstruction based on a memristor chip for energy-efficient computational spectrometry</span> <br>
+    <a href="https://www.nature.com/articles/s41928-026-01571-x">[Paper]</a> <br> 
+    Han Zhao#, Lei Wang#, Yanze Zhou#, Siqi Liu, Qi Qin, Xueqi Li, Yiru Zhang, Yue Xi, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Jianshi Tang, Huaqiang Wu, et al. <br>
+    <i>Nature Electronics <strong>(Nat. Electron.). </strong></i> 2026.
+  </li>
 
 
    <li id="JP-Pub2"> 
