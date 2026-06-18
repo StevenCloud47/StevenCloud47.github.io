@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of Integrated Circuits</a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University</a>. My research plan includes advanced memory and computing, brain-computer interfaces, and electronic design automation.
+I'm a Master student from <a href='https://www.ime.tsinghua.edu.cn/'> School of Integrated Circuits</a>, <a href='https://www.tsinghua.edu.cn/'> Tsinghua University</a>. My research interest includes emerging memory and high-performance computing, brain-computer interfaces, and electronic design automation.
 
 I'm very fortunate to be supervised by <a href='https://www.ime.tsinghua.edu.cn/info/1015/1798.htm'> Prof. Jianshi Tang</a> and <a href='http://stor.ime.tsinghua.edu.cn/'> Lab of Emerging MemOry and Novel computing (LEMON) </a> since May 2023. 
 
