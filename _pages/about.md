@@ -150,7 +150,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 - **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
 
 # 🎓 Academic Service
-- **2026.09 - 2026.11**, Participating in the LEMON Lab's SMIC 28 nm tape-out project, responsible for algorithm quantization for the NeuroEdge-V4 EEG signal processing chip.
+- **2026.09 - 2026.11**, Participating in the LEMON Lab's SMIC 28 nm tape-out project, responsible for algorithm quantization for the NeuroEdge-V4 chip (spike signal processing).
 - **2026.03 - Now**, Assist in guiding undergraduate research (SRT project).
 - **2025.11 - 2025.12**, Participated in the LEMON Lab's C111 chip design project, responsible for pre-layout and post-layout simulation of the analog front-end section AFE_2MODE_MICS_CS (with Han Zhao).
 - **2024.03 - 2025.06**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
