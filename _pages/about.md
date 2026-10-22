@@ -101,8 +101,11 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 
 #### PATENTS
 <ol reversed>
+  <li id="P-Pub2">
+    <span style="color:#000000; font-weight:bold;">一种感算一体接口电路及工作方法</span>, Jianshi Tang, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Han Zhao, et al. Filed in October 2026.
+  </li>
   <li id="P-Pub1"> 
-    <span style="color:#000000; font-weight:bold;">忆阻器测量矩阵确定方法、装置、设备、存储介质及产品</span>, Jianshi Tang, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Han Zhao, et al. 2026.2.
+    <span style="color:#000000; font-weight:bold;">忆阻器测量矩阵确定方法、装置、设备、存储介质及产品</span>, Jianshi Tang, <span style="color:#b02418; font-weight:bold;">Yunrui Jiao</span>, Han Zhao, et al. Filed in February 2026.
   </li>
 </ol>
 
@@ -110,24 +113,21 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 #### Master
 - **2026.06** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> and <span style="color:#27a4a4; font-weight:bold;">Team Award</span> in the "Healthy Mind, Future Forward" Running Activity, School of Integrated Circuits
 - **2026.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 19th Capital University Cricket League
-- **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Outstanding Individual </span> in LEMON
-- **2026.02** <span style="color:#27a4a4; font-weight:bold;">Award for Attendance </span> in LEMON
+- **2026.02** <span style="color:#27a4a4; font-weight:bold;">Outstanding Individual Award &amp; Attendance Award</span> in LEMON
+- **2025.11** <span style="color:#80704c; font-weight:bold;">Best Commercial Viability Award</span> in the 7th Tsinghua University SDG Open Innovation Marathon Challenge
 
 #### Undergraduate
 
 - **2024.06** <span style="color:#ccab00; font-weight:bold;">Excellent Graduate (优良毕业生)</span> for School of Integrated Circuits, Tsinghua University
 - **2024.05** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 17th Capital University Cricket League
-- **2023.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence</span>
-- **2023.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academical Excellence</span>
+- **2023.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence &amp; Academic Excellence</span>
 - **2023.08** <span style="color:#27a4a4; font-weight:bold;">Outstanding intern</span> in summer practice
 - **2023.05** <span style="color:#27a4a4; font-weight:bold;">5th-8th place</span> in the men's group of the 16th Capital University Cricket League
 - **2023.01** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> in the 14th National College Student Mathematics Competition (Non-Mathematics Group)
-- **2023.01** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence</span>
-- **2023.01** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academical Excellence</span>
+- **2023.01** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Science and Technology Excellence &amp; Academic Excellence</span>
 - **2022.12** <span style="color:#ccab00; font-weight:bold;">Second Prize</span> for Outstanding Projects of the Students Research Training (SRT) Program
 - **2021.12** <span style="color:#dc143c; font-weight:bold;">First Prize</span> in the 13th National College Student Mathematics Competition (Non-Mathematics Group)
-- **2021.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academical Excellence</span>
-- **2021.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Athletic Excellence</span>
+- **2021.12** <span style="color:#27a4a4; font-weight:bold;">Scholarship for Academic Excellence &amp; Athletic Excellence</span>
 - **2021.06** <span style="color:#80704c; font-weight:bold;">3rd-4th place</span> in the men's group of the 14th Capital University Cricket League
 - **2020.11** <span style="color:#27a4a4; font-weight:bold;">5th-8th place</span> in the men's group of the 13th Capital University Cricket League
 - **2020.10** <span style="color:#80704c; font-weight:bold;">Bronze Award</span> for summer social practice (As a member of Team "Win at the tipping point")
@@ -142,6 +142,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 <!--- **2007.09 - 2013.06**, Elementary school student, <span style="color:#ea3324; font-weight:bold;">Qinyang YongWei School</span>, China. -->
 
 # 💬 Activities
+- **2026.10.21**, Participated in the treadmill virtual race (open division, men's 3,000 m) at Tsinghua University's inaugural Virtual Sports Games, finishing in 14 min 04 s.
 - **2026.06.28**, Attended the Launch Ceremony and Academic Symposium of the Beijing Key Laboratory of Brain-Computer Interface and Mental Health Regulation, held at the Science Auditorium of Zhongguanyuan Global Village, Beijing.
 - **2026.01.16**, Attend the Annual Meeting of Tsinghua University Micro-Nano Fabrication Center (Poster presentation)
 - **2025.12.20**, Attended the 4th HiPi Chiplet Forum, held in Beijing.
@@ -149,6 +150,7 @@ Before that I had been supervised by <a href='https://hongchen.ime.tsinghua.edu.
 - **2025.03.28**, Attended the 3rd HiPi Chiplet Forum, held in Beijing.
 
 # 🎓 Academic Service
+- **2026.09 - 2026.11**, Participating in the LEMON Lab's SMIC 28 nm tape-out project, responsible for algorithm quantization for the NeuroEdge-V4 EEG signal processing chip.
 - **2026.03 - Now**, Assist in guiding undergraduate research (SRT project).
 - **2025.11 - 2025.12**, Participated in the LEMON Lab's C111 chip design project, responsible for pre-layout and post-layout simulation of the analog front-end section AFE_2MODE_MICS_CS (with Han Zhao).
 - **2024.03 - 2025.06**, Assist in guiding undergraduate research (SRT *i.e. Students Research Training* and TIC *i.e. Technology Innovation and Challenge*).
